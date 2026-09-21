@@ -1,0 +1,31 @@
+{
+  "name": "galaticlag",
+  "identifier": "galaticlag.repository",
+  "website": "https://galaticlag.github.io/repository/",
+  "apps": [
+    {
+      "name": "CapBudget",
+      "bundleIdentifier": "com.capbudget.app",
+      "developerName": "galaticlag",
+      "subtitle": "Local-first household budget",
+      "localizedDescription": "Local-first household budgeting. Everything stays on your device.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/cb.png",
+      "tintColor": "0C3927",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "buildVersion": "5",
+          "date": "2026-09-21",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.2/cb-1.0.2.ipa",
+          "size": 1516828,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "1.0.2",
+      "versionDate": "2026-09-21",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.2/cb-1.0.2.ipa",
+      "size": 1516828
+    }
+  ],
+  "news": []
+}
