@@ -36,6 +36,13 @@
       "tintColor": "FF7A59",
       "versions": [
         {
+          "version": "0.2.2",
+          "date": "2026-09-22",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.2/mc-0.2.2.ipa",
+          "size": 8521834,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "0.2.1",
           "date": "2026-09-22",
           "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.1/mc-0.2.1.ipa",
@@ -43,10 +50,10 @@
           "minOSVersion": "16.0"
         }
       ],
-      "version": "0.2.1",
+      "version": "0.2.2",
       "versionDate": "2026-09-22",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.1/mc-0.2.1.ipa",
-      "size": 8400862
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.2/mc-0.2.2.ipa",
+      "size": 8521834
     }
   ],
   "news": []
