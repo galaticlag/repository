@@ -4,45 +4,6 @@
   "website": "https://galaticlag.github.io/repository/",
   "apps": [
     {
-      "name": "CapBudget",
-      "bundleIdentifier": "com.capbudget.app",
-      "developerName": "galaticlag",
-      "subtitle": "Local-first household budget",
-      "localizedDescription": "Local-first household budgeting. Everything stays on your device.",
-      "iconURL": "https://galaticlag.github.io/repository/icons/cb.png",
-      "tintColor": "0C3927",
-      "versions": [
-        {
-          "version": "1.0.8",
-          "buildVersion": "22",
-          "date": "2026-09-24",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.8/cb-1.0.8.ipa",
-          "size": 1520703,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "1.0.6",
-          "buildVersion": "21",
-          "date": "2026-09-24",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.6/cb-1.0.6.ipa",
-          "size": 1520701,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "1.0.2",
-          "buildVersion": "5",
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.2/cb-1.0.2.ipa",
-          "size": 1516828,
-          "minOSVersion": "15.0"
-        }
-      ],
-      "version": "1.0.8",
-      "versionDate": "2026-09-24",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.8/cb-1.0.8.ipa",
-      "size": 1520703
-    },
-    {
       "name": "Free Metadata Cleaner",
       "bundleIdentifier": "com.freemetadatacleaner.app",
       "developerName": "galaticlag",
@@ -92,6 +53,53 @@
       "versionDate": "2026-09-24",
       "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.0.2/mc-0.0.2.ipa",
       "size": 9099480
+    },
+    {
+      "name": "CapBudget",
+      "bundleIdentifier": "com.capbudget.app",
+      "developerName": "galaticlag",
+      "subtitle": "Local-first household budget",
+      "localizedDescription": "Local-first household budgeting. Everything stays on your device.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/cb.png",
+      "tintColor": "0C3927",
+      "versions": [
+        {
+          "version": "1.0.10",
+          "buildVersion": "2609242024",
+          "date": "2026-09-24",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.10/cb-1.0.10.ipa",
+          "size": 1520701,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.8",
+          "buildVersion": "22",
+          "date": "2026-09-24",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.8/cb-1.0.8.ipa",
+          "size": 1520703,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.6",
+          "buildVersion": "21",
+          "date": "2026-09-24",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.6/cb-1.0.6.ipa",
+          "size": 1520701,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.2",
+          "buildVersion": "5",
+          "date": "2026-09-21",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.2/cb-1.0.2.ipa",
+          "size": 1516828,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "1.0.10",
+      "versionDate": "2026-09-24",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.10/cb-1.0.10.ipa",
+      "size": 1520701
     }
   ],
   "news": []
