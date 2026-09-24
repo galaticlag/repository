@@ -4,49 +4,6 @@
   "website": "https://galaticlag.github.io/repository/",
   "apps": [
     {
-      "name": "Free Metadata Cleaner",
-      "bundleIdentifier": "com.freemetadatacleaner.app",
-      "developerName": "galaticlag",
-      "subtitle": "Remove photo and video metadata",
-      "localizedDescription": "Inspect and remove metadata from photos and videos, entirely on your device.",
-      "iconURL": "https://galaticlag.github.io/repository/icons/mc.png",
-      "tintColor": "FF7A59",
-      "versions": [
-        {
-          "version": "0.2.4",
-          "date": "2026-09-23",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.4/mc-0.2.4.ipa",
-          "size": 8581514,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "0.2.3",
-          "date": "2026-09-22",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.3/mc-0.2.3.ipa",
-          "size": 8520872,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "0.2.2",
-          "date": "2026-09-22",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.2/mc-0.2.2.ipa",
-          "size": 8521834,
-          "minOSVersion": "16.0"
-        },
-        {
-          "version": "0.2.1",
-          "date": "2026-09-22",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.1/mc-0.2.1.ipa",
-          "size": 8400862,
-          "minOSVersion": "16.0"
-        }
-      ],
-      "version": "0.2.4",
-      "versionDate": "2026-09-23",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.4/mc-0.2.4.ipa",
-      "size": 8581514
-    },
-    {
       "name": "CapBudget",
       "bundleIdentifier": "com.capbudget.app",
       "developerName": "galaticlag",
@@ -84,6 +41,57 @@
       "versionDate": "2026-09-24",
       "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.8/cb-1.0.8.ipa",
       "size": 1520703
+    },
+    {
+      "name": "Free Metadata Cleaner",
+      "bundleIdentifier": "com.freemetadatacleaner.app",
+      "developerName": "galaticlag",
+      "subtitle": "Remove photo and video metadata",
+      "localizedDescription": "Inspect and remove metadata from photos and videos, entirely on your device.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/mc.png",
+      "tintColor": "FF7A59",
+      "versions": [
+        {
+          "version": "0.0.2",
+          "buildVersion": "2609242011",
+          "date": "2026-09-24",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.0.2/mc-0.0.2.ipa",
+          "size": 9099480,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "0.2.4",
+          "date": "2026-09-23",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.4/mc-0.2.4.ipa",
+          "size": 8581514,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "0.2.3",
+          "date": "2026-09-22",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.3/mc-0.2.3.ipa",
+          "size": 8520872,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "0.2.2",
+          "date": "2026-09-22",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.2/mc-0.2.2.ipa",
+          "size": 8521834,
+          "minOSVersion": "16.0"
+        },
+        {
+          "version": "0.2.1",
+          "date": "2026-09-22",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.2.1/mc-0.2.1.ipa",
+          "size": 8400862,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "version": "0.0.2",
+      "versionDate": "2026-09-24",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v0.0.2/mc-0.0.2.ipa",
+      "size": 9099480
     }
   ],
   "news": []
