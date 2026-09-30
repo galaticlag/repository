@@ -72,6 +72,14 @@
       "tintColor": "0C3927",
       "versions": [
         {
+          "version": "1.0.13",
+          "buildVersion": "2609300923",
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.13/cb-1.0.13.ipa",
+          "size": 3053286,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.0.12",
           "buildVersion": "2609281442",
           "date": "2026-09-28",
@@ -120,10 +128,10 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.0.12",
-      "versionDate": "2026-09-28",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.12/cb-1.0.12.ipa",
-      "size": 2098796
+      "version": "1.0.13",
+      "versionDate": "2026-09-30",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.13/cb-1.0.13.ipa",
+      "size": 3053286
     }
   ],
   "news": []
