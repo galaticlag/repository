@@ -63,6 +63,29 @@
       "size": 9102124
     },
     {
+      "name": "SafeShare Vault",
+      "bundleIdentifier": "net.pixeon.vault",
+      "developerName": "galaticlag",
+      "subtitle": "Encrypted vault for your documents, with protected sharing",
+      "localizedDescription": "Keeps personal documents encrypted on your phone. Shares a copy with a watermark and no hidden metadata. No account, no network.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/qk.png",
+      "tintColor": "347965",
+      "versions": [
+        {
+          "version": "0.0.6",
+          "buildVersion": "2610011825",
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.6/qk-0.0.6.ipa",
+          "size": 11939316,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "0.0.6",
+      "versionDate": "2026-10-01",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.6/qk-0.0.6.ipa",
+      "size": 11939316
+    },
+    {
       "name": "CapBudget",
       "bundleIdentifier": "com.capbudget.app",
       "developerName": "galaticlag",
@@ -71,6 +94,14 @@
       "iconURL": "https://galaticlag.github.io/repository/icons/cb.png",
       "tintColor": "0C3927",
       "versions": [
+        {
+          "version": "1.0.17",
+          "buildVersion": "2610051528",
+          "date": "2026-10-05",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.17/cb-1.0.17.ipa",
+          "size": 3250561,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.0.16",
           "buildVersion": "2609301442",
@@ -142,43 +173,12 @@
           "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.6/cb-1.0.6.ipa",
           "size": 1520701,
           "minOSVersion": "15.0"
-        },
-        {
-          "version": "1.0.2",
-          "buildVersion": "5",
-          "date": "2026-09-21",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.2/cb-1.0.2.ipa",
-          "size": 1516828,
-          "minOSVersion": "15.0"
         }
       ],
-      "version": "1.0.16",
-      "versionDate": "2026-09-30",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.16/cb-1.0.16.ipa",
-      "size": 3053149
-    },
-    {
-      "name": "SafeShare Vault",
-      "bundleIdentifier": "net.pixeon.vault",
-      "developerName": "galaticlag",
-      "subtitle": "Encrypted vault for your documents, with protected sharing",
-      "localizedDescription": "Keeps personal documents encrypted on your phone. Shares a copy with a watermark and no hidden metadata. No account, no network.",
-      "iconURL": "https://galaticlag.github.io/repository/icons/qk.png",
-      "tintColor": "347965",
-      "versions": [
-        {
-          "version": "0.0.6",
-          "buildVersion": "2610011825",
-          "date": "2026-10-01",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.6/qk-0.0.6.ipa",
-          "size": 11939316,
-          "minOSVersion": "15.0"
-        }
-      ],
-      "version": "0.0.6",
-      "versionDate": "2026-10-01",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.6/qk-0.0.6.ipa",
-      "size": 11939316
+      "version": "1.0.17",
+      "versionDate": "2026-10-05",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.17/cb-1.0.17.ipa",
+      "size": 3250561
     }
   ],
   "news": []
