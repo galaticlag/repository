@@ -63,29 +63,6 @@
       "size": 9102124
     },
     {
-      "name": "SafeShare Vault",
-      "bundleIdentifier": "net.pixeon.vault",
-      "developerName": "galaticlag",
-      "subtitle": "Encrypted vault for your documents, with protected sharing",
-      "localizedDescription": "Keeps personal documents encrypted on your phone. Shares a copy with a watermark and no hidden metadata. No account, no network.",
-      "iconURL": "https://galaticlag.github.io/repository/icons/qk.png",
-      "tintColor": "347965",
-      "versions": [
-        {
-          "version": "0.0.6",
-          "buildVersion": "2610011825",
-          "date": "2026-10-01",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.6/qk-0.0.6.ipa",
-          "size": 11939316,
-          "minOSVersion": "15.0"
-        }
-      ],
-      "version": "0.0.6",
-      "versionDate": "2026-10-01",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.6/qk-0.0.6.ipa",
-      "size": 11939316
-    },
-    {
       "name": "CapBudget",
       "bundleIdentifier": "com.capbudget.app",
       "developerName": "galaticlag",
@@ -179,6 +156,37 @@
       "versionDate": "2026-10-05",
       "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.17/cb-1.0.17.ipa",
       "size": 3250561
+    },
+    {
+      "name": "SafeShare Vault",
+      "bundleIdentifier": "net.pixeon.vault",
+      "developerName": "galaticlag",
+      "subtitle": "Encrypted vault for your documents, with protected sharing",
+      "localizedDescription": "Keeps personal documents encrypted on your phone. Shares a copy with a watermark and no hidden metadata. No account, no network.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/qk.png",
+      "tintColor": "347965",
+      "versions": [
+        {
+          "version": "0.0.8",
+          "buildVersion": "2610051544",
+          "date": "2026-10-05",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.8/qk-0.0.8.ipa",
+          "size": 13244659,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.0.6",
+          "buildVersion": "2610011825",
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.6/qk-0.0.6.ipa",
+          "size": 11939316,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "0.0.8",
+      "versionDate": "2026-10-05",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.8/qk-0.0.8.ipa",
+      "size": 13244659
     }
   ],
   "news": []
