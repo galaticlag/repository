@@ -63,6 +63,76 @@
       "size": 9102124
     },
     {
+      "name": "SafeShare Vault",
+      "bundleIdentifier": "net.pixeon.vault",
+      "developerName": "galaticlag",
+      "subtitle": "Encrypted vault for your documents, with protected sharing",
+      "localizedDescription": "Keeps personal documents encrypted on your phone. Shares a copy with a watermark and no hidden metadata. No account, no network.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/qk.png",
+      "tintColor": "347965",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "2610110803",
+          "date": "2026-10-11",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v1.0.0/qk-1.0.0.ipa",
+          "size": 13322281,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.0.9",
+          "buildVersion": "2610061536",
+          "date": "2026-10-06",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.9/qk-0.0.9.ipa",
+          "size": 13242673,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.0.8",
+          "buildVersion": "2610051544",
+          "date": "2026-10-05",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.8/qk-0.0.8.ipa",
+          "size": 13244659,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.0.6",
+          "buildVersion": "2610011825",
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.6/qk-0.0.6.ipa",
+          "size": 11939316,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-10-11",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v1.0.0/qk-1.0.0.ipa",
+      "size": 13322281
+    },
+    {
+      "name": "Little Relay",
+      "bundleIdentifier": "com.littlerelay.app",
+      "developerName": "galaticlag",
+      "subtitle": "Baby tracker, nothing leaves your phone",
+      "localizedDescription": "Feeds, sleep, diapers, growth and first foods in one private baby log. No account, no network access.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/xr.png",
+      "tintColor": "347965",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "2610200907",
+          "date": "2026-10-20",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/xr-ios-v1.0.0/xr-1.0.0.ipa",
+          "size": 11532940,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/xr-ios-v1.0.0/xr-1.0.0.ipa",
+      "size": 11532940
+    },
+    {
       "name": "CapBudget",
       "bundleIdentifier": "com.capbudget.app",
       "developerName": "galaticlag",
@@ -71,6 +141,14 @@
       "iconURL": "https://galaticlag.github.io/repository/icons/cb.png",
       "tintColor": "0C3927",
       "versions": [
+        {
+          "version": "1.0.25",
+          "buildVersion": "2610201208",
+          "date": "2026-10-20",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.25/cb-1.0.25.ipa",
+          "size": 4345533,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.0.19",
           "buildVersion": "2610081359",
@@ -142,90 +220,12 @@
           "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.10/cb-1.0.10.ipa",
           "size": 1520701,
           "minOSVersion": "15.0"
-        },
-        {
-          "version": "1.0.8",
-          "buildVersion": "22",
-          "date": "2026-09-24",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.8/cb-1.0.8.ipa",
-          "size": 1520703,
-          "minOSVersion": "15.0"
         }
       ],
-      "version": "1.0.19",
-      "versionDate": "2026-10-08",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.19/cb-1.0.19.ipa",
-      "size": 3500275
-    },
-    {
-      "name": "SafeShare Vault",
-      "bundleIdentifier": "net.pixeon.vault",
-      "developerName": "galaticlag",
-      "subtitle": "Encrypted vault for your documents, with protected sharing",
-      "localizedDescription": "Keeps personal documents encrypted on your phone. Shares a copy with a watermark and no hidden metadata. No account, no network.",
-      "iconURL": "https://galaticlag.github.io/repository/icons/qk.png",
-      "tintColor": "347965",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "buildVersion": "2610110803",
-          "date": "2026-10-11",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v1.0.0/qk-1.0.0.ipa",
-          "size": 13322281,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.0.9",
-          "buildVersion": "2610061536",
-          "date": "2026-10-06",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.9/qk-0.0.9.ipa",
-          "size": 13242673,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.0.8",
-          "buildVersion": "2610051544",
-          "date": "2026-10-05",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.8/qk-0.0.8.ipa",
-          "size": 13244659,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.0.6",
-          "buildVersion": "2610011825",
-          "date": "2026-10-01",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v0.0.6/qk-0.0.6.ipa",
-          "size": 11939316,
-          "minOSVersion": "15.0"
-        }
-      ],
-      "version": "1.0.0",
-      "versionDate": "2026-10-11",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v1.0.0/qk-1.0.0.ipa",
-      "size": 13322281
-    },
-    {
-      "name": "Little Relay",
-      "bundleIdentifier": "com.littlerelay.app",
-      "developerName": "galaticlag",
-      "subtitle": "Baby tracker, nothing leaves your phone",
-      "localizedDescription": "Feeds, sleep, diapers, growth and first foods in one private baby log. No account, no network access.",
-      "iconURL": "https://galaticlag.github.io/repository/icons/xr.png",
-      "tintColor": "347965",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "buildVersion": "2610200907",
-          "date": "2026-10-20",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/xr-ios-v1.0.0/xr-1.0.0.ipa",
-          "size": 11532940,
-          "minOSVersion": "15.0"
-        }
-      ],
-      "version": "1.0.0",
+      "version": "1.0.25",
       "versionDate": "2026-10-20",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/xr-ios-v1.0.0/xr-1.0.0.ipa",
-      "size": 11532940
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.25/cb-1.0.25.ipa",
+      "size": 4345533
     }
   ],
   "news": []
