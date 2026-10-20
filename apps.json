@@ -203,6 +203,29 @@
       "versionDate": "2026-10-11",
       "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v1.0.0/qk-1.0.0.ipa",
       "size": 13322281
+    },
+    {
+      "name": "Little Relay",
+      "bundleIdentifier": "com.littlerelay.app",
+      "developerName": "galaticlag",
+      "subtitle": "Baby tracker, nothing leaves your phone",
+      "localizedDescription": "Feeds, sleep, diapers, growth and first foods in one private baby log. No account, no network access.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/xr.png",
+      "tintColor": "347965",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "2610200907",
+          "date": "2026-10-20",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/xr-ios-v1.0.0/xr-1.0.0.ipa",
+          "size": 11532940,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/xr-ios-v1.0.0/xr-1.0.0.ipa",
+      "size": 11532940
     }
   ],
   "news": []
