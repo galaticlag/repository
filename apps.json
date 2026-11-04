@@ -51,37 +51,6 @@
       "size": 13322281
     },
     {
-      "name": "Menuloop",
-      "bundleIdentifier": "com.rotaplate.app",
-      "developerName": "galaticlag",
-      "subtitle": "Meal planner and grocery list",
-      "localizedDescription": "Plan the week's meals, build your grocery list and keep your recipes with photos. No account, works offline.",
-      "iconURL": "https://galaticlag.github.io/repository/icons/rp.png",
-      "tintColor": "0C3927",
-      "versions": [
-        {
-          "version": "0.0.3",
-          "buildVersion": "2610211908",
-          "date": "2026-10-21",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.3/rp-0.0.3.ipa",
-          "size": 18276290,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.0.2",
-          "buildVersion": "2610211304",
-          "date": "2026-10-21",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.2/rp-0.0.2.ipa",
-          "size": 18136156,
-          "minOSVersion": "15.0"
-        }
-      ],
-      "version": "0.0.3",
-      "versionDate": "2026-10-21",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.3/rp-0.0.3.ipa",
-      "size": 18276290
-    },
-    {
       "name": "CapBudget",
       "bundleIdentifier": "com.capbudget.app",
       "developerName": "galaticlag",
@@ -273,6 +242,45 @@
       "versionDate": "2026-11-04",
       "downloadURL": "https://github.com/galaticlag/repository/releases/download/xr-ios-v1.0.1/xr-1.0.1.ipa",
       "size": 12272154
+    },
+    {
+      "name": "Menuloop",
+      "bundleIdentifier": "com.rotaplate.app",
+      "developerName": "galaticlag",
+      "subtitle": "Meal planner and grocery list",
+      "localizedDescription": "Plan the week's meals, build your grocery list and keep your recipes with photos. No account, works offline.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/rp.png",
+      "tintColor": "0C3927",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "2611041918",
+          "date": "2026-11-04",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.0/rp-1.0.0.ipa",
+          "size": 18917299,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.0.3",
+          "buildVersion": "2610211908",
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.3/rp-0.0.3.ipa",
+          "size": 18276290,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.0.2",
+          "buildVersion": "2610211304",
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.2/rp-0.0.2.ipa",
+          "size": 18136156,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "1.0.0",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.0/rp-1.0.0.ipa",
+      "size": 18917299
     }
   ],
   "news": []
