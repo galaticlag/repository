@@ -133,6 +133,37 @@
       "size": 11532940
     },
     {
+      "name": "Menuloop",
+      "bundleIdentifier": "com.rotaplate.app",
+      "developerName": "galaticlag",
+      "subtitle": "Meal planner and grocery list",
+      "localizedDescription": "Plan the week's meals, build your grocery list and keep your recipes with photos. No account, works offline.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/rp.png",
+      "tintColor": "0C3927",
+      "versions": [
+        {
+          "version": "0.0.3",
+          "buildVersion": "2610211908",
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.3/rp-0.0.3.ipa",
+          "size": 18276290,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.0.2",
+          "buildVersion": "2610211304",
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.2/rp-0.0.2.ipa",
+          "size": 18136156,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "0.0.3",
+      "versionDate": "2026-10-21",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.3/rp-0.0.3.ipa",
+      "size": 18276290
+    },
+    {
       "name": "CapBudget",
       "bundleIdentifier": "com.capbudget.app",
       "developerName": "galaticlag",
@@ -141,6 +172,14 @@
       "iconURL": "https://galaticlag.github.io/repository/icons/cb.png",
       "tintColor": "0C3927",
       "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "2611040834",
+          "date": "2026-11-04",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.1.0/cb-1.1.0.ipa",
+          "size": 4761436,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.0.25",
           "buildVersion": "2610201208",
@@ -212,51 +251,12 @@
           "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.11/cb-1.0.11.ipa",
           "size": 1520699,
           "minOSVersion": "15.0"
-        },
-        {
-          "version": "1.0.10",
-          "buildVersion": "2609242024",
-          "date": "2026-09-24",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.10/cb-1.0.10.ipa",
-          "size": 1520701,
-          "minOSVersion": "15.0"
         }
       ],
-      "version": "1.0.25",
-      "versionDate": "2026-10-20",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.0.25/cb-1.0.25.ipa",
-      "size": 4345533
-    },
-    {
-      "name": "Menuloop",
-      "bundleIdentifier": "com.rotaplate.app",
-      "developerName": "galaticlag",
-      "subtitle": "Meal planner and grocery list",
-      "localizedDescription": "Plan the week's meals, build your grocery list and keep your recipes with photos. No account, works offline.",
-      "iconURL": "https://galaticlag.github.io/repository/icons/rp.png",
-      "tintColor": "0C3927",
-      "versions": [
-        {
-          "version": "0.0.3",
-          "buildVersion": "2610211908",
-          "date": "2026-10-21",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.3/rp-0.0.3.ipa",
-          "size": 18276290,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.0.2",
-          "buildVersion": "2610211304",
-          "date": "2026-10-21",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.2/rp-0.0.2.ipa",
-          "size": 18136156,
-          "minOSVersion": "15.0"
-        }
-      ],
-      "version": "0.0.3",
-      "versionDate": "2026-10-21",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.3/rp-0.0.3.ipa",
-      "size": 18276290
+      "version": "1.1.0",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/cb-ios-v1.1.0/cb-1.1.0.ipa",
+      "size": 4761436
     }
   ],
   "news": []
