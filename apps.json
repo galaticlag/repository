@@ -253,6 +253,14 @@
       "tintColor": "0C3927",
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "2611051654",
+          "date": "2026-11-05",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.1/rp-1.0.1.ipa",
+          "size": 11391920,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "2611041918",
           "date": "2026-11-04",
@@ -277,10 +285,10 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.0.0",
-      "versionDate": "2026-11-04",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.0/rp-1.0.0.ipa",
-      "size": 18917299
+      "version": "1.0.1",
+      "versionDate": "2026-11-05",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.1/rp-1.0.1.ipa",
+      "size": 11391920
     }
   ],
   "news": []
