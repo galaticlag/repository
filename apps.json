@@ -197,61 +197,6 @@
       "size": 12272154
     },
     {
-      "name": "Menuloop",
-      "bundleIdentifier": "com.rotaplate.app",
-      "developerName": "galaticlag",
-      "subtitle": "Meal planner and grocery list",
-      "localizedDescription": "Plan the week's meals, build your grocery list and keep your recipes with photos. No account, works offline.",
-      "iconURL": "https://galaticlag.github.io/repository/icons/rp.png",
-      "tintColor": "0C3927",
-      "versions": [
-        {
-          "version": "1.0.2",
-          "buildVersion": "2611071100",
-          "date": "2026-11-07",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.2/rp-1.0.2.ipa",
-          "size": 11285026,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "1.0.1",
-          "buildVersion": "2611051654",
-          "date": "2026-11-05",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.1/rp-1.0.1.ipa",
-          "size": 11391920,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "1.0.0",
-          "buildVersion": "2611041918",
-          "date": "2026-11-04",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.0/rp-1.0.0.ipa",
-          "size": 18917299,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.0.3",
-          "buildVersion": "2610211908",
-          "date": "2026-10-21",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.3/rp-0.0.3.ipa",
-          "size": 18276290,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "0.0.2",
-          "buildVersion": "2610211304",
-          "date": "2026-10-21",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.2/rp-0.0.2.ipa",
-          "size": 18136156,
-          "minOSVersion": "15.0"
-        }
-      ],
-      "version": "1.0.2",
-      "versionDate": "2026-11-07",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.2/rp-1.0.2.ipa",
-      "size": 11285026
-    },
-    {
       "name": "SafeShare Vault",
       "bundleIdentifier": "net.pixeon.vault",
       "developerName": "galaticlag",
@@ -305,6 +250,69 @@
       "versionDate": "2026-11-07",
       "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v1.0.3/qk-1.0.3.ipa",
       "size": 13355426
+    },
+    {
+      "name": "Menuloop",
+      "bundleIdentifier": "com.rotaplate.app",
+      "developerName": "galaticlag",
+      "subtitle": "Meal planner and grocery list",
+      "localizedDescription": "Plan the week's meals, build your grocery list and keep your recipes with photos. No account, works offline.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/rp.png",
+      "tintColor": "0C3927",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "buildVersion": "2611072121",
+          "date": "2026-11-07",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.3/rp-1.0.3.ipa",
+          "size": 11285445,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.2",
+          "buildVersion": "2611071100",
+          "date": "2026-11-07",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.2/rp-1.0.2.ipa",
+          "size": 11285026,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.1",
+          "buildVersion": "2611051654",
+          "date": "2026-11-05",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.1/rp-1.0.1.ipa",
+          "size": 11391920,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.0",
+          "buildVersion": "2611041918",
+          "date": "2026-11-04",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.0/rp-1.0.0.ipa",
+          "size": 18917299,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.0.3",
+          "buildVersion": "2610211908",
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.3/rp-0.0.3.ipa",
+          "size": 18276290,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "0.0.2",
+          "buildVersion": "2610211304",
+          "date": "2026-10-21",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v0.0.2/rp-0.0.2.ipa",
+          "size": 18136156,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "1.0.3",
+      "versionDate": "2026-11-07",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/rp-ios-v1.0.3/rp-1.0.3.ipa",
+      "size": 11285445
     }
   ],
   "news": []
