@@ -364,6 +364,14 @@
       "tintColor": "0C3927",
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "2611192149",
+          "date": "2026-11-19",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.1/nv-1.0.1.ipa",
+          "size": 12199341,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.0.0",
           "date": "2026-11-19",
           "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.0/nv-1.0.0.ipa",
@@ -371,9 +379,9 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.0.0",
+      "version": "1.0.1",
       "versionDate": "2026-11-19",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.0/nv-1.0.0.ipa",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.1/nv-1.0.1.ipa",
       "size": 12199341
     }
   ],
