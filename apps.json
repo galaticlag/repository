@@ -277,6 +277,14 @@
       "tintColor": "347965",
       "versions": [
         {
+          "version": "1.1.2",
+          "buildVersion": "2611191712",
+          "date": "2026-11-19",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v1.1.2/qk-1.1.2.ipa",
+          "size": 15224870,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.1.0",
           "buildVersion": "2611191430",
           "date": "2026-11-19",
@@ -325,10 +333,10 @@
           "minOSVersion": "15.0"
         }
       ],
-      "version": "1.1.0",
+      "version": "1.1.2",
       "versionDate": "2026-11-19",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v1.1.0/qk-1.1.0.ipa",
-      "size": 15223353
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v1.1.2/qk-1.1.2.ipa",
+      "size": 15224870
     }
   ],
   "news": []
