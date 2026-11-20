@@ -280,6 +280,36 @@
       "size": 12157730
     },
     {
+      "name": "Indie Office",
+      "bundleIdentifier": "com.indie-office.app",
+      "developerName": "galaticlag",
+      "subtitle": "Quotes, invoices and books for sole traders",
+      "localizedDescription": "Create quotes, deposits, invoices and credit notes offline, with country rule packs and encrypted backup.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/nv.png",
+      "tintColor": "0C3927",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "buildVersion": "2611192149",
+          "date": "2026-11-19",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.1/nv-1.0.1.ipa",
+          "size": 12199341,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.0",
+          "date": "2026-11-19",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.0/nv-1.0.0.ipa",
+          "size": 12199341,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "1.0.1",
+      "versionDate": "2026-11-19",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.1/nv-1.0.1.ipa",
+      "size": 12199341
+    },
+    {
       "name": "Free Metadata Cleaner",
       "bundleIdentifier": "com.freemetadatacleaner.app",
       "developerName": "galaticlag",
@@ -288,6 +318,14 @@
       "iconURL": "https://galaticlag.github.io/repository/icons/mc.png",
       "tintColor": "FF7A59",
       "versions": [
+        {
+          "version": "1.2.2",
+          "buildVersion": "2611200928",
+          "date": "2026-11-20",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v1.2.2/mc-1.2.2.ipa",
+          "size": 11347987,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.2.1",
           "buildVersion": "2611192006",
@@ -349,40 +387,10 @@
           "minOSVersion": "16.0"
         }
       ],
-      "version": "1.2.1",
-      "versionDate": "2026-11-19",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v1.2.1/mc-1.2.1.ipa",
-      "size": 11347985
-    },
-    {
-      "name": "Indie Office",
-      "bundleIdentifier": "com.indie-office.app",
-      "developerName": "galaticlag",
-      "subtitle": "Quotes, invoices and books for sole traders",
-      "localizedDescription": "Create quotes, deposits, invoices and credit notes offline, with country rule packs and encrypted backup.",
-      "iconURL": "https://galaticlag.github.io/repository/icons/nv.png",
-      "tintColor": "0C3927",
-      "versions": [
-        {
-          "version": "1.0.1",
-          "buildVersion": "2611192149",
-          "date": "2026-11-19",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.1/nv-1.0.1.ipa",
-          "size": 12199341,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "1.0.0",
-          "date": "2026-11-19",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.0/nv-1.0.0.ipa",
-          "size": 12199341,
-          "minOSVersion": "15.0"
-        }
-      ],
-      "version": "1.0.1",
-      "versionDate": "2026-11-19",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.1/nv-1.0.1.ipa",
-      "size": 12199341
+      "version": "1.2.2",
+      "versionDate": "2026-11-20",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/mc-ios-v1.2.2/mc-1.2.2.ipa",
+      "size": 11347987
     }
   ],
   "news": []
