@@ -99,36 +99,6 @@
       "size": 4781852
     },
     {
-      "name": "Indie Office",
-      "bundleIdentifier": "com.indie-office.app",
-      "developerName": "galaticlag",
-      "subtitle": "Quotes, invoices and books for sole traders",
-      "localizedDescription": "Create quotes, deposits, invoices and credit notes offline, with country rule packs and encrypted backup.",
-      "iconURL": "https://galaticlag.github.io/repository/icons/nv.png",
-      "tintColor": "0C3927",
-      "versions": [
-        {
-          "version": "1.0.1",
-          "buildVersion": "2611192149",
-          "date": "2026-11-19",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.1/nv-1.0.1.ipa",
-          "size": 12199341,
-          "minOSVersion": "15.0"
-        },
-        {
-          "version": "1.0.0",
-          "date": "2026-11-19",
-          "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.0/nv-1.0.0.ipa",
-          "size": 12199341,
-          "minOSVersion": "15.0"
-        }
-      ],
-      "version": "1.0.1",
-      "versionDate": "2026-11-19",
-      "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.1/nv-1.0.1.ipa",
-      "size": 12199341
-    },
-    {
       "name": "Menuloop",
       "bundleIdentifier": "com.rotaplate.app",
       "developerName": "galaticlag",
@@ -448,6 +418,44 @@
       "versionDate": "2026-11-23",
       "downloadURL": "https://github.com/galaticlag/repository/releases/download/qk-ios-v1.1.7/qk-1.1.7.ipa",
       "size": 15270925
+    },
+    {
+      "name": "Indie Office",
+      "bundleIdentifier": "com.indie-office.app",
+      "developerName": "galaticlag",
+      "subtitle": "Quotes, invoices and books for sole traders",
+      "localizedDescription": "Create quotes, deposits, invoices and credit notes offline, with country rule packs and encrypted backup.",
+      "iconURL": "https://galaticlag.github.io/repository/icons/nv.png",
+      "tintColor": "0C3927",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "buildVersion": "2611251046",
+          "date": "2026-11-25",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.2/nv-1.0.2.ipa",
+          "size": 12207267,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.1",
+          "buildVersion": "2611192149",
+          "date": "2026-11-19",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.1/nv-1.0.1.ipa",
+          "size": 12199341,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.0",
+          "date": "2026-11-19",
+          "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.0/nv-1.0.0.ipa",
+          "size": 12199341,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "version": "1.0.2",
+      "versionDate": "2026-11-25",
+      "downloadURL": "https://github.com/galaticlag/repository/releases/download/nv-ios-v1.0.2/nv-1.0.2.ipa",
+      "size": 12207267
     }
   ],
   "news": []
